@@ -5,7 +5,7 @@
 👋 Olá pessoal, aqui é a **Estéfani Monteiro**! 
 Desenvolvi este projeto como parte do desafio **“Natural ou Fake Natty?” da DIO**, com o propósito de **demonstrar o poder das IAs Generativas** aplicadas à **automação da gestão do conhecimento**.  
 
-O foco principal é explorar o **NotebookLM**, ferramenta da Google voltada à análise e compreensão de conteúdos complexos, em um **estudo de caso hipotético do setor jurídico**, área que lida com documentação densa e requer síntese, organização e precisão estratégica.
+O foco principal é explorar o **NotebookLM**, ferramenta da Google voltada à análise e compreensão de conteúdos complexos, aplicando em um **estudo de caso hipotético do setor jurídico**, área que lida com documentação densa e requer síntese, organização e precisão estratégica.
 
 O objetivo central é mostrar como a **integração de múltiplas IAs** pode gerar entregas de **nível corporativo**, transformando dados em insights e automação inteligente.  
 
